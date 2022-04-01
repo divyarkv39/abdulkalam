@@ -17,5 +17,5 @@ Feature: Gmail mail compose
 
     Examples: 
       | to                    | subject | body    | attachment                      |
-      #| divyadsp737@gmail.com | wishes  | hi      | C:\\Users\\user\\Desktop\\1.jpg |
+      | divyadsp737@gmail.com | wishes  | hi      | C:\\Users\\user\\Desktop\\1.jpg |
       | rguktrkv7@gmail.com   | wishes  | hi papa | C:\\Users\\user\\Desktop\\1.jpg |
